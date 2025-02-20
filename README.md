@@ -1,4 +1,4 @@
-# Social Media Analysis Report
+# Social Media Analysis Report (Power BI)
 
 This repository contains an analysis of the organization's social media performance, focusing on Facebook and LinkedIn platforms. The report provides detailed insights into audience behaviour, content interactions, and overall performance over the past year. Key findings and recommendations are shared to help enhance the effectiveness of social media strategies.
 
