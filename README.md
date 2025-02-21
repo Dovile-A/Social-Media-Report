@@ -1,8 +1,8 @@
 # Social Media Analysis Report (Power BI)
 
-This repository contains an analysis of the organization's social media performance, focusing on Facebook and LinkedIn platforms. The report provides detailed insights into audience behaviour, content interactions, and overall performance over the past year. Key findings and recommendations are shared to help enhance the effectiveness of social media strategies.
+This repository contains an analysis of the organization's social media performance, focusing on Facebook and LinkedIn platforms. **The report provides detailed insights into audience behaviour, content interactions, and overall performance over the past year (2024)**. Key findings and recommendations are shared to help enhance the effectiveness of social media strategies.
 
-The analysis and visualizations were created using **Power BI**. However, since the client was not familiar with the platform and requested a PDF file, the Power BI report was exported to PDF after completion. This approach influenced design decisions:  
+The analysis and visualizations were created using **Power BI**. However, since the client was not familiar with the platform and requested a PDF file, the Power BI dashboards were exported as PDF after completion. This approach influenced design decisions:  
 - Some text that would normally be placed in tooltips was written in text boxes.  
 - Interactive filtering was not used, focusing instead on a static design.  
 
